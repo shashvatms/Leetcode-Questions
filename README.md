@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shashvatms/DSA_Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashvatms/DSA_Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shashvatms/DSA_Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashvatms/DSA_Questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashvatms/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashvatms/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,8 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shashvatms/DSA_Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashvatms/DSA_Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shashvatms/DSA_Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashvatms/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
