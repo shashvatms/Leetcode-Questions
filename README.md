@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shashvatms/DSA_Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shashvatms/DSA_Questions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shashvatms/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shashvatms/DSA_Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashvatms/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shashvatms/DSA_Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shashvatms/DSA_Questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashvatms/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shashvatms/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shashvatms/DSA_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 ## Linked List
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shashvatms/DSA_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shashvatms/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
