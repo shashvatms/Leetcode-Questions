@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashvatms/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shashvatms/DSA_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shashvatms/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shashvatms/DSA_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shashvatms/DSA_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
