@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shashvatms/DSA_Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shashvatms/DSA_Questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shashvatms/DSA_Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shashvatms/DSA_Questions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shashvatms/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shashvatms/DSA_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashvatms/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shashvatms/DSA_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shashvatms/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shashvatms/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shashvatms/DSA_Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
