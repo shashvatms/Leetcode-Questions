@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shashvatms/DSA_Questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shashvatms/DSA_Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shashvatms/DSA_Questions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashvatms/DSA_Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shashvatms/DSA_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shashvatms/DSA_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashvatms/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashvatms/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashvatms/DSA_Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -151,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashvatms/DSA_Questions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
