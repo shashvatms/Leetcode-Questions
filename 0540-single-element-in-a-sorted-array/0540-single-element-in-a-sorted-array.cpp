@@ -1,21 +1,18 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int l = 0;
-        int r = nums.size()-1;
-        if(nums=={1,1,2,3,3}){
-            return 1;
-        }
-        while(l<r){
-            int mid = (l+r)/2;
-            if(nums[mid] == nums[mid ^ 1]){
-                l = mid+1;
+        int left = 0, right = nums.size() - 1;
+        while (left < right) {
+            int mid = (left + right) / 2;
+            if (mid % 2 == 1) {
+                mid--;
             }
-            else{
-                r = mid-1;
+            if (nums[mid] != nums[mid + 1]) {
+                right = mid;
+            } else {
+                left = mid + 2;
             }
-            
         }
-        return nums[l];
+        return nums[left];
     }
 };
