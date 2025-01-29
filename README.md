@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashvatms/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashvatms/DSA_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashvatms/DSA_Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashvatms/DSA_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Simulation
 |  |
 | ------- |
