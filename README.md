@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/shashvatms/DSA_Questions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/shashvatms/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shashvatms/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashvatms/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shashvatms/DSA_Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/shashvatms/DSA_Questions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/shashvatms/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shashvatms/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashvatms/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
