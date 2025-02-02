@@ -8,7 +8,7 @@ public:
             int mid= (low+high)/2;
             long long hour = 0;
             for(int banana: piles){
-                hour += ceil((banana+ mid - 1)/mid);
+                hour += ((banana+ mid - 1)/mid);
             }
             if(hour<=h){
                 result = mid;
