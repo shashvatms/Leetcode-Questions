@@ -4,7 +4,7 @@ public:
         vector<vector<int>> ans;
         sort(intervals.begin(),intervals.end());
         ans.push_back(intervals[0]);
-        for(int i=1;i<intervals.size();i++){
+        for(int i=0;i<intervals.size();i++){
             vector<int>& temp = ans.back();
             if(temp[1]>=intervals[i][0]){
                 temp[1] = max(temp[1],intervals[i][1]);
