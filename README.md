@@ -185,4 +185,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0137-single-number-ii) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shashvatms/DSA_Questions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shashvatms/DSA_Questions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shashvatms/DSA_Questions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shashvatms/DSA_Questions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
