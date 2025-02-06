@@ -29,7 +29,33 @@ public:
         return 1 + max(leftheight,rightheight);
     }
     bool isBalanced(TreeNode* root) {
-        int n = checkheight(root);
-        return n!=-1;
+        if (!root) return true; // Empty tree is balanced
+
+        stack<TreeNode*> st;
+        unordered_map<TreeNode*, int> height; // Store subtree heights
+        unordered_map<TreeNode*, bool> visited; // Track visited nodes
+
+        st.push(root);
+        while (!st.empty()) {
+            TreeNode* node = st.top();
+
+            if (node->left && !visited[node->left]) {
+                st.push(node->left);
+            } else if (node->right && !visited[node->right]) {
+                st.push(node->right);
+            } else {
+                st.pop();
+                int leftHeight = height[node->left];
+                int rightHeight = height[node->right];
+
+                // If unbalanced, return false
+                if (abs(leftHeight - rightHeight) > 1) return false;
+
+                // Store height of the current node
+                height[node] = max(leftHeight, rightHeight) + 1;
+                visited[node] = true;
+            }
+        }
+        return true;
     }
 };
