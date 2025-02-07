@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashvatms/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shashvatms/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shashvatms/DSA_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shashvatms/DSA_Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shashvatms/DSA_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shashvatms/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shashvatms/DSA_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
 |  |
 | ------- |
