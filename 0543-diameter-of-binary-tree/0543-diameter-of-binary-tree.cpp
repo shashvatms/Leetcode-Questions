@@ -10,25 +10,22 @@
  * };
  */
 class Solution {
-    int res = 0;
-
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        dfs(root);
-        return res;        
-    }
-
-private:
-    int dfs(TreeNode* root) {
-        if (!root) {
+    int diameter = 0;
+    int height(TreeNode* root){
+        if(root==NULL){
             return 0;
         }
+        int leftheight = height(root->left);
+        int rightheight = height(root->right);
+        diameter = max(diameter,leftheight+rightheight);
+        
+        return 1 + max(leftheight,rightheight);
 
-        int l = dfs(root->left);
-        int r = dfs(root->right);
+    }
+    int diameterOfBinaryTree(TreeNode* root) {
+        int dia = height(root);
+        return diameter;
+    }
 
-        res = std::max(res, l + r);
-
-        return 1 + std::max(l, r);
-    }    
 };
