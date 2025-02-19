@@ -12,18 +12,18 @@
 class Solution {
 public:
     bool ismirror(TreeNode* r1,TreeNode* r2){
-        if(r1==NULL && r2==NULL){
+        if(!r1 && !r2){
             return true;
         }
-        if(r1==NULL||r2==NULL){
+        if(!r1 || !r2){
             return false;
         }
-        return r1->val==r2->val && ismirror(r1->left,r2->right) && ismirror(r1->right,r2->left);
+        return r1->val == r2->val && ismirror(r1->left,r2->right) && ismirror(r1->right,r2->left);
     }
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL){
-            return true;
-        }
-        return ismirror(root->left,root->right);
+      if(!root){
+        return true;
+      }
+      return ismirror(root->left,root->right);
     }
 };
