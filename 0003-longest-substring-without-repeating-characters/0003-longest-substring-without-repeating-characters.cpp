@@ -9,8 +9,8 @@ public:
         while(j<s.length()){
             if(mp.find(s[j]) == mp.end()){
                 mp.insert(s[j]);
+                len = max(len,j-i+1);
                 j++;
-                len = max(len,j-i);
             }
             else{
                 mp.erase(s[i]);
