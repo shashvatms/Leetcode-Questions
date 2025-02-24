@@ -10,13 +10,13 @@ public:
             if(mp.find(s[j]) == mp.end()){
                 mp.insert(s[j]);
                 j++;
-                len = max(len,j-i+1);
+                len = max(len,j-i);
             }
             else{
                 mp.erase(s[i]);
                 i++;
             }
         }
-        return len-1;
+        return len;
     }
 };
