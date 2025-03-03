@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shashvatms/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashvatms/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shashvatms/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/shashvatms/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shashvatms/DSA_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shashvatms/DSA_Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shashvatms/DSA_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0088-merge-sorted-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/shashvatms/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shashvatms/DSA_Questions/tree/master/0054-spiral-matrix) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/shashvatms/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shashvatms/DSA_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
