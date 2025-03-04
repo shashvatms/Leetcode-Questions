@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/shashvatms/DSA_Questions/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/shashvatms/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shashvatms/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shashvatms/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shashvatms/DSA_Questions/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/shashvatms/DSA_Questions/tree/master/0735-asteroid-collision) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shashvatms/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0735-asteroid-collision](https://github.com/shashvatms/DSA_Questions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
