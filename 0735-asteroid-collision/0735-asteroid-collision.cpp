@@ -12,8 +12,8 @@ public:
                 else if(abs(temp.back())==abs(i)){
                     temp.pop_back();
                 }
-                d = true;
-                break;
+                    d = true;
+                    break;
             }
             if(!d){
                 temp.push_back(i);
