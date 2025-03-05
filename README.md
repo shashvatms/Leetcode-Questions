@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shashvatms/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shashvatms/DSA_Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shashvatms/DSA_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shashvatms/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shashvatms/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/shashvatms/DSA_Questions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
