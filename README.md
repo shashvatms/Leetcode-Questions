@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashvatms/DSA_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shashvatms/DSA_Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2470-removing-stars-from-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/shashvatms/DSA_Questions/tree/master/0735-asteroid-collision) |
+| [1078-remove-outermost-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
