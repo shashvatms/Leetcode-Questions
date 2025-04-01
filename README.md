@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shashvatms/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashvatms/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shashvatms/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shashvatms/DSA_Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shashvatms/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shashvatms/DSA_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shashvatms/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shashvatms/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shashvatms/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shashvatms/DSA_Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shashvatms/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shashvatms/DSA_Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shashvatms/DSA_Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shashvatms/DSA_Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -294,8 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashvatms/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shashvatms/DSA_Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shashvatms/DSA_Questions/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shashvatms/DSA_Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
