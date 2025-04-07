@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shashvatms/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/shashvatms/DSA_Questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shashvatms/DSA_Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shashvatms/DSA_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/shashvatms/DSA_Questions/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashvatms/DSA_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
