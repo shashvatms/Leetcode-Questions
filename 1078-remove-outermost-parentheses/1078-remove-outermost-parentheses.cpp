@@ -3,7 +3,7 @@ public:
     string removeOuterParentheses(string s) {
         string ans = "";
         int balance = 0;
-        for(char c:s){
+        for(char c: s){
             if(c=='('){
                 if(balance>0){
                     ans+=c;
