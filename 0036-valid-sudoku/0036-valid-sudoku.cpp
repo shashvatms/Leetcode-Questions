@@ -6,24 +6,20 @@ using namespace std;
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        vector<unordered_set<char>> rows(9), cols(9), boxes(9);
-        
-        for (int i = 0; i < 9; i++) {
-            for (int j = 0; j < 9; j++) {
+        vector<unordered_set<char>> row(9),col(9),box(9);
+        for(int i=0;i<9;i++){
+            for(int j=0;j<9;j++){
                 char num = board[i][j];
-                if (num == '.') continue; // Skip empty cells
-                
-                int boxIndex = (i / 3) * 3 + (j / 3);
-                
-                // Check row, column, and 3x3 box
-                if (rows[i].count(num) || cols[j].count(num) || boxes[boxIndex].count(num)) {
+                if(num=='.'){
+                    continue;
+                }
+                int boxindex = (i/3)*3 + (j/3);
+                if(row[i].count(num) || col[j].count(num) || box[boxindex].count(num)){
                     return false;
                 }
-                
-                // Insert into the respective sets
-                rows[i].insert(num);
-                cols[j].insert(num);
-                boxes[boxIndex].insert(num);
+                row[i].insert(num);
+                col[j].insert(num);
+                box[boxindex].insert(num);
             }
         }
         return true;
