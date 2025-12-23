@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shashvatms/DSA_Questions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/shashvatms/DSA_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/shashvatms/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shashvatms/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shashvatms/DSA_Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shashvatms/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashvatms/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shashvatms/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shashvatms/DSA_Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shashvatms/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shashvatms/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shashvatms/DSA_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashvatms/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
