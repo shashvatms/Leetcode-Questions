@@ -1,18 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        long long rev = 0,temp=x;
-        if(x<0){
+        // Negative numbers and numbers ending with 0 (except 0 itself) are not palindromes
+        if (x < 0 || (x % 10 == 0 && x != 0))
             return false;
+
+        int reversedHalf = 0;
+
+        while (x > reversedHalf) {
+            reversedHalf = reversedHalf * 10 + x % 10;
+            x /= 10;
         }
-        while(temp!=0){
-            int rem = temp%10;
-            rev = rev*10+rem;
-            temp = temp/10;
-        }
-        if(rev==x){
-            return true;
-        }
-        return false;
+
+        // Even length: x == reversedHalf
+        // Odd length: x == reversedHalf / 10
+        return (x == reversedHalf || x == reversedHalf / 10);
     }
 };
