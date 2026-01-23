@@ -6,9 +6,9 @@ public:
         int area = 0;
         while(si<=ei){
             int l = min(height[si],height[ei]);
-            int b = ei - si;
+            int b =  ei-si;
             area = max(area,l*b);
-            if(height[si] < height[ei]){
+            if(height[si]<height[ei]){
                 si++;
             }
             else{
