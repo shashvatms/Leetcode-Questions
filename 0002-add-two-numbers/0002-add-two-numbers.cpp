@@ -14,20 +14,20 @@ public:
         ListNode* head = NULL;
         ListNode* temp = head;
         int carry = 0;
-        while(l1!=NULL || l2!=NULL || carry!=0){
+        while(l1 != NULL || l2 != NULL || carry!=0){
             int sum = 0;
             if(l1){
                 sum += l1->val;
                 l1 = l1->next;
             }
             if(l2){
-                sum+= l2->val;
+                sum += l2->val;
                 l2 = l2->next;
             }
             sum = sum+carry;
             carry = sum/10;
             ListNode* newnode = new ListNode(sum%10);
-            if(!head){
+            if(head == NULL){
                 head = newnode;
                 temp = head;
             }
