@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shashvatms/DSA_Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shashvatms/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/shashvatms/DSA_Questions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Tree
 |  |
 | ------- |
