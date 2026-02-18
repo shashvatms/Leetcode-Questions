@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shashvatms/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shashvatms/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shashvatms/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/0567-permutation-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shashvatms/DSA_Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2965-find-missing-and-repeated-values](https://github.com/shashvatms/DSA_Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shashvatms/DSA_Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shashvatms/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shashvatms/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shashvatms/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shashvatms/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/0567-permutation-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashvatms/DSA_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shashvatms/DSA_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashvatms/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashvatms/DSA_Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Merge Sort
 |  |
