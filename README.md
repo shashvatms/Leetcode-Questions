@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shashvatms/DSA_Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shashvatms/DSA_Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/0761-special-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shashvatms/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/shashvatms/DSA_Questions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/0761-special-binary-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashvatms/DSA_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shashvatms/DSA_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shashvatms/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shashvatms/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0761-special-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/0761-special-binary-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashvatms/DSA_Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
