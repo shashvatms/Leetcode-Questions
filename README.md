@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shashvatms/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/shashvatms/DSA_Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/shashvatms/DSA_Questions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/shashvatms/DSA_Questions/tree/master/0908-middle-of-the-linked-list) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shashvatms/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/shashvatms/DSA_Questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/shashvatms/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/shashvatms/DSA_Questions/tree/master/0696-count-binary-substrings) |
