@@ -1,15 +1,32 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-         if (s1.size() > s2.size()) return false;
-    vector<int> s1_count(26, 0), window_count(26, 0);
-    for (char c : s1) s1_count[c - 'a']++;
-    for (int i = 0; i < s1.size(); i++) window_count[s2[i] - 'a']++;
-    for (int i = s1.size(); i < s2.size(); i++) {
-        if (window_count == s1_count) return true;   
-        window_count[s2[i] - 'a']++;
-        window_count[s2[i - s1.size()] - 'a']--;
-    }
-    return window_count == s1_count;
+        int n = s1.size();
+        int m = s2.size();
+        if(n>m){
+            return false;
+        }
+        vector<int> need(26,0), window(26,0);
+        // get the need
+        for(char c:s1){
+            need[c-'a']++;
+        }
+        //start first window;
+        for(int i=0;i<n;i++){
+            window[s2[i]-'a']++;
+        }
+        //check if satisfying the need
+        if(need==window){
+            return true;
+        }
+        // move window forward
+        for(int i=n;i<m;i++){
+            window[s2[i]-'a']++; //add new 
+            window[s2[i-n]-'a']--; // remove older
+            if(need==window){
+                return true;
+            }
+        }
+        return false;
     }
 };
