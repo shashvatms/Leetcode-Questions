@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/shashvatms/DSA_Questions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/0761-special-binary-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shashvatms/DSA_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashvatms/DSA_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shashvatms/DSA_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shashvatms/DSA_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shashvatms/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shashvatms/DSA_Questions/tree/master/0735-asteroid-collision) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shashvatms/DSA_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shashvatms/DSA_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shashvatms/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shashvatms/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shashvatms/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shashvatms/DSA_Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shashvatms/DSA_Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shashvatms/DSA_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shashvatms/DSA_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
