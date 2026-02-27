@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shashvatms/DSA_Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shashvatms/DSA_Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Trie
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashvatms/DSA_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shashvatms/DSA_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -406,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shashvatms/DSA_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
