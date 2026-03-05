@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shashvatms/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/shashvatms/DSA_Questions/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/shashvatms/DSA_Questions/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/shashvatms/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shashvatms/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shashvatms/DSA_Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shashvatms/DSA_Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shashvatms/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0877-stone-game](https://github.com/shashvatms/DSA_Questions/tree/master/0877-stone-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashvatms/DSA_Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/shashvatms/DSA_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shashvatms/DSA_Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shashvatms/DSA_Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashvatms/DSA_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shashvatms/DSA_Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0877-stone-game](https://github.com/shashvatms/DSA_Questions/tree/master/0877-stone-game) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashvatms/DSA_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Simulation
 |  |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shashvatms/DSA_Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shashvatms/DSA_Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
