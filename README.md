@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shashvatms/DSA_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shashvatms/DSA_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shashvatms/DSA_Questions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/shashvatms/DSA_Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shashvatms/DSA_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shashvatms/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashvatms/DSA_Questions/tree/master/0053-maximum-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashvatms/DSA_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashvatms/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shashvatms/DSA_Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shashvatms/DSA_Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shashvatms/DSA_Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shashvatms/DSA_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0088-merge-sorted-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shashvatms/DSA_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashvatms/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shashvatms/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shashvatms/DSA_Questions/tree/master/0118-pascals-triangle) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shashvatms/DSA_Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shashvatms/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -427,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shashvatms/DSA_Questions/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shashvatms/DSA_Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
