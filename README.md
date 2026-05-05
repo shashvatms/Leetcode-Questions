@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shashvatms/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/shashvatms/DSA_Questions/tree/master/0735-asteroid-collision) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shashvatms/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shashvatms/DSA_Questions/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/shashvatms/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shashvatms/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shashvatms/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shashvatms/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashvatms/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shashvatms/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shashvatms/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shashvatms/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shashvatms/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
